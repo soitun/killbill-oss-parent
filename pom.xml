@@ -1591,7 +1591,7 @@
             <dependency>
                 <groupId>org.weakref</groupId>
                 <artifactId>jmxutils</artifactId>
-                <version>1.23</version>
+                <version>1.26</version>
             </dependency>
             <dependency>
                 <groupId>org.xerial.snappy</groupId>
